@@ -17,7 +17,7 @@ Over the time of this work I hope to complete posts on individual parts of the d
 ## Content
 
 1. [Enabling the driver](https://fnordig.de/2016/12/02/xen-a-backend-frontend-driver-example/)
-1. Initial communication (tbd)
+1. [Initial communication](https://fnordig.de/2016/12/20/xen-split-driver-initial-communication/)
 1. Event channel setup (tbd)
 1. Ring communication (tbd)
 1. Sharing memory using grants (tbd)
